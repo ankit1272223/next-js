@@ -95,7 +95,7 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
-        <h1>new git puss</h1>
+        <h1>new git puscls</h1>
       </footer>
     </div>
   );

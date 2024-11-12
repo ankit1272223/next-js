@@ -1,9 +1,13 @@
 import React from 'react'
 
 function home() {
-  return (
-    <div>home</div>
-  )
+    return (
+        <>
+            <h1 className="bg-slate-500">new git puscls</h1>
+            {/* <h1>new h one</h1> */}
+            <div>home</div>
+        </>
+    )
 }
 
 export default home

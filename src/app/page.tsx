@@ -96,7 +96,7 @@ export default function Home() {
           Go to nextjs.org →
         </a>
         <h1 className="bg-slate-500">new git puscls</h1>
-        <h1>new h one</h1>
+        <h1 className="bg-red-600">new h one</h1>
       </footer>
     </div>
   );

@@ -7,6 +7,7 @@ function home() {
             {/* <h1>new h one</h1> */}
             <div>home</div>
             <h1>new data add</h1>
+            <h1>blog page add</h1>
         </>
     )
 }
